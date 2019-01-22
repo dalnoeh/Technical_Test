@@ -1,0 +1,10 @@
+F:\Work\Neas Energy\Technical Test\Assignment 2 - desktop app to show district info\DistrictInfoService\DataLibrary\bin\Debug\DataLibrary.dll
+F:\Work\Neas Energy\Technical Test\Assignment 2 - desktop app to show district info\DistrictInfoService\DataLibrary\bin\Debug\DataLibrary.pdb
+F:\Work\Neas Energy\Technical Test\Assignment 2 - desktop app to show district info\DistrictInfoService\DataLibrary\bin\Debug\Newtonsoft.Json.dll
+F:\Work\Neas Energy\Technical Test\Assignment 2 - desktop app to show district info\DistrictInfoService\DataLibrary\bin\Debug\Newtonsoft.Json.pdb
+F:\Work\Neas Energy\Technical Test\Assignment 2 - desktop app to show district info\DistrictInfoService\DataLibrary\bin\Debug\Newtonsoft.Json.xml
+F:\Work\Neas Energy\Technical Test\Assignment 2 - desktop app to show district info\DistrictInfoService\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+F:\Work\Neas Energy\Technical Test\Assignment 2 - desktop app to show district info\DistrictInfoService\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+F:\Work\Neas Energy\Technical Test\Assignment 2 - desktop app to show district info\DistrictInfoService\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+F:\Work\Neas Energy\Technical Test\Assignment 2 - desktop app to show district info\DistrictInfoService\DataLibrary\obj\Debug\DataLibrary.dll
+F:\Work\Neas Energy\Technical Test\Assignment 2 - desktop app to show district info\DistrictInfoService\DataLibrary\obj\Debug\DataLibrary.pdb
