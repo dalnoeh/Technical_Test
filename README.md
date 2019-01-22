@@ -9,4 +9,4 @@ Districts can also have secondary salesmen, and there are no constrictions on th
 
 The application uses the DistrictProcessor to get data from the SQL server as JSON and uses Newtonsoft.Json to deserialize the data using the models of the DataLibrary. The DistrcitsController is used by the view to get the correct data based on user input.
 
-To use the application import, Technical_test.bacpac into a SQL server as a Data-tier application, and change the connectionString variable in DataHandler.cs in the DataLibrary, so that it matches your SQL server. In Visual Studio 2017 this path can be found in the SQL Server Object Explorer, as a property of the database. 
+To use the application, import Technical_test.bacpac into a SQL server as a Data-tier application, and change the connectionString variable in DataHandler.cs in the DataLibrary, so that it matches your SQL server. In Visual Studio 2017 this path can be found in the SQL Server Object Explorer, as a property of the database. 
