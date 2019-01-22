@@ -3,7 +3,7 @@ Simple technical test - Full stack application using WPF and SQL and (unfinished
 
 My first time using SQL, WPF (XAML) and ASP.NET Core and the MVC structure. Made in 4 days, learning as I went.
 
-The application is made to show the stores and salesmen connected to different districts - The districts are the Danish regions, all other names are randomly generated. You can the choose a responsible salesman for each district. An assigment criteria was that a district always has ONE responsible saleman, however a salesman can be responsible for more than one district.
+The application is made to show the stores and salesmen connected to different districts - The districts are the Danish regions, all other names were randomly generated. You can the choose a responsible salesman for each district. An assigment criteria was that a district always has ONE responsible saleman, however a salesman can be responsible for more than one district.
 
 Districts can also have secondary salesmen, and there are no constrictions on this.
 
